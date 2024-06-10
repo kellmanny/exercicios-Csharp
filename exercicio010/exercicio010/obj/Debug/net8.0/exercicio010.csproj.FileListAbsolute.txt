@@ -1,0 +1,14 @@
+C:\Users\tokio\OneDrive\Documents\c#\exercicio010\exercicio010\bin\Debug\net8.0\exercicio010.exe
+C:\Users\tokio\OneDrive\Documents\c#\exercicio010\exercicio010\bin\Debug\net8.0\exercicio010.deps.json
+C:\Users\tokio\OneDrive\Documents\c#\exercicio010\exercicio010\bin\Debug\net8.0\exercicio010.runtimeconfig.json
+C:\Users\tokio\OneDrive\Documents\c#\exercicio010\exercicio010\bin\Debug\net8.0\exercicio010.dll
+C:\Users\tokio\OneDrive\Documents\c#\exercicio010\exercicio010\bin\Debug\net8.0\exercicio010.pdb
+C:\Users\tokio\OneDrive\Documents\c#\exercicio010\exercicio010\obj\Debug\net8.0\exercicio010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tokio\OneDrive\Documents\c#\exercicio010\exercicio010\obj\Debug\net8.0\exercicio010.AssemblyInfoInputs.cache
+C:\Users\tokio\OneDrive\Documents\c#\exercicio010\exercicio010\obj\Debug\net8.0\exercicio010.AssemblyInfo.cs
+C:\Users\tokio\OneDrive\Documents\c#\exercicio010\exercicio010\obj\Debug\net8.0\exercicio010.csproj.CoreCompileInputs.cache
+C:\Users\tokio\OneDrive\Documents\c#\exercicio010\exercicio010\obj\Debug\net8.0\exercicio010.dll
+C:\Users\tokio\OneDrive\Documents\c#\exercicio010\exercicio010\obj\Debug\net8.0\refint\exercicio010.dll
+C:\Users\tokio\OneDrive\Documents\c#\exercicio010\exercicio010\obj\Debug\net8.0\exercicio010.pdb
+C:\Users\tokio\OneDrive\Documents\c#\exercicio010\exercicio010\obj\Debug\net8.0\exercicio010.genruntimeconfig.cache
+C:\Users\tokio\OneDrive\Documents\c#\exercicio010\exercicio010\obj\Debug\net8.0\ref\exercicio010.dll

@@ -1,0 +1,14 @@
+C:\Users\tokio\OneDrive\Documents\c#\execicio012\execicio012\bin\Debug\net8.0\execicio012.exe
+C:\Users\tokio\OneDrive\Documents\c#\execicio012\execicio012\bin\Debug\net8.0\execicio012.deps.json
+C:\Users\tokio\OneDrive\Documents\c#\execicio012\execicio012\bin\Debug\net8.0\execicio012.runtimeconfig.json
+C:\Users\tokio\OneDrive\Documents\c#\execicio012\execicio012\bin\Debug\net8.0\execicio012.dll
+C:\Users\tokio\OneDrive\Documents\c#\execicio012\execicio012\bin\Debug\net8.0\execicio012.pdb
+C:\Users\tokio\OneDrive\Documents\c#\execicio012\execicio012\obj\Debug\net8.0\execicio012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tokio\OneDrive\Documents\c#\execicio012\execicio012\obj\Debug\net8.0\execicio012.AssemblyInfoInputs.cache
+C:\Users\tokio\OneDrive\Documents\c#\execicio012\execicio012\obj\Debug\net8.0\execicio012.AssemblyInfo.cs
+C:\Users\tokio\OneDrive\Documents\c#\execicio012\execicio012\obj\Debug\net8.0\execicio012.csproj.CoreCompileInputs.cache
+C:\Users\tokio\OneDrive\Documents\c#\execicio012\execicio012\obj\Debug\net8.0\execicio012.dll
+C:\Users\tokio\OneDrive\Documents\c#\execicio012\execicio012\obj\Debug\net8.0\refint\execicio012.dll
+C:\Users\tokio\OneDrive\Documents\c#\execicio012\execicio012\obj\Debug\net8.0\execicio012.pdb
+C:\Users\tokio\OneDrive\Documents\c#\execicio012\execicio012\obj\Debug\net8.0\execicio012.genruntimeconfig.cache
+C:\Users\tokio\OneDrive\Documents\c#\execicio012\execicio012\obj\Debug\net8.0\ref\execicio012.dll
